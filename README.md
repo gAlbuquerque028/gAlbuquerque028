@@ -1,4 +1,4 @@
-### <p>Olá, eu sou o Gabriel Albuquerque 😁</p>
+### Olá, eu sou o Gabriel Albuquerque 😁
 ##
 
 <div align="center">
